@@ -93,5 +93,5 @@ See requirements.txt for main dependencies:
 
 ⸻
 
-✍️ Author: Luis Ricardo Tun Aguilar
+✍️ Author: Luis Tun
 Data Scientist
